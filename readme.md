@@ -18,4 +18,5 @@ CloudFlareのworkerを作る際、初めてすぎてわけわからん。<br>
 wikiのパス
 https://github.com/T-Pons/CloudFlare-Worker/wiki
 
-[自分のCloudFlareのメモ類](https://github.com/T-Pons/CloudFlare-Worker/wiki))
+[自分のCloudFlareのメモ類](https://github.com/T-Pons/CloudFlare-Worker/wiki)
+
