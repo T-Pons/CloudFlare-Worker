@@ -13,6 +13,8 @@ CloudFlareのworkerを作る際、初めてすぎてわけわからん。<br>
 
 最終手段的な、print文 debugが、有効じゃないのがなぁ。 
 
-##
+##とりあえず wiki 
 
-
+wikiのパス
+https://github.com/T-Pons/CloudFlare-Worker/wiki
+[自分のCloudFlareのメモ類](https://github.com/T-Pons/CloudFlare-Worker/wiki)) 
